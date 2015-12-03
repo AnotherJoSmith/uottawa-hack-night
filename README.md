@@ -15,16 +15,23 @@ Before you start, you must do two things:
 Template to use:
 ```markdown
  ###[Project name](<project url>)
- 
- 
+
+
  A short description of my project, including what technologies are used.
- 
+
  Github handles of the contributors
 ```
 
-###[prank-call](https://github.com/AnotherJoSmith/prank-call)
- 
+### [prank-call](https://github.com/AnotherJoSmith/prank-call)
+
  A Rails application which grabs the top joke from /r/jokes and uses twilio to tell you the joke using text to speech. The goal is to replace my alarm clock by having this call me every morning at 7:30.
- 
+
  @AnotherJoSmith
- 
+
+### [spritebrite](https://github.com/Morgrimm/Dec2ShopifyHackathon)
+
+A flask(?) application that we hope will do something cool involving an image and a LiteBrite-esque front end, but at this point our expectations are pretty low :D
+
+@Fondson <br />
+@joseph-roque <br />
+@Morgrimm
