@@ -28,3 +28,9 @@ Template to use:
  
  @AnotherJoSmith
  
+ 
+###[Jazzify](https://github.com/SeanLF/jazzify)
+
+ Rails app to modernize the process to apply to volunteer at the Ottawa Jazz Festival.
+ 
+@SeanLF
