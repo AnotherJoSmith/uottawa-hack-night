@@ -31,7 +31,7 @@ Template to use:
  
 ###[sudoku-solver](https://github.com/jonathanGB/SudokuSolver)
 
-Webapp that solves Sudokus using JavaScript in the browser. As for now, it can solve easy and most medium sudokus. Final goal would be to make it able to use a picture of an unsolved sudoku as the user input (and use neural networks to decipher it).
+Webapp that solves Sudokus using JavaScript in the browser. As for now, it can solve easy and most medium sudokus. Final goal would be to make it use a picture of an unsolved sudoku as the user input (and use neural networks to decipher it).
 
 @jonathanGB
  
